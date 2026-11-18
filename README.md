@@ -29,7 +29,7 @@
 
 ### Базовые настройки:
 ```yaml
-type: custom:music_dock
+type: custom:music-dock-card
 entity: sensor.temperature
 ```
 
@@ -93,7 +93,7 @@ Music Dock is a custom Home Assistant card with touch-device support. It lets yo
 ### Basic configuration:
 
 ```yaml
-type: custom:my-lovelace-card
+type: custom:music-dock-card
 entity: sensor.temperature
 ```
 
